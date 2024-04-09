@@ -3,7 +3,6 @@ blue='\033[34:1m'
 red='\033[31;1m'
 cyan='\033[36;1m'
 green='\033[32;1m'
-sleep 2
 echo $cyan"Jagan Lupa Subrek Akun YT"$green"Satria"
 sleep 3
 echo
